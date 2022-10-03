@@ -51,7 +51,7 @@ const Content = ({cat_data , index_data})  => {
             </Select>
 
             <div className="ic2">
-            <Link href="/second">
+            <Link href="../Second">
                 <HomeIcon />
             </Link>
             </div>

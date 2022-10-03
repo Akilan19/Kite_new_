@@ -41,7 +41,7 @@ const Content = ({cat_data , index_data})  => {
 
         <div className="nav" >
             <Select className="sel1" placeholder='Select option' width={300} ml={500} onChange={(event) => {
-                Router.push(`/content/${event.target.value}`);
+                router.push(`/content/${event.target.value}`);
             }}>
                 {index_data.categories.map( (a) => (
                         <option key={Math.random()} style={{color: "black"}} value={a.Category}>

@@ -1,34 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+To view the Demo of the Website: https://main--bucolic-semolina-5834ee.netlify.app/
 
-## Getting Started
+The start page looks like the below image, when clicked on the button moves to next page
+![image](https://user-images.githubusercontent.com/84567467/193631312-a680ad38-3fc9-4dca-8e07-3b089aa88caa.png)
 
-First, run the development server:
+This page shows the available topics of APIs from which the user can filter the topic they want, when clicked on the topic it takes to the page corresponding to the topic
+We can scroll to view more topics
+We can also switch from light ot dark mode 
+All the above show in the following images attached below
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![image](https://user-images.githubusercontent.com/84567467/193631629-a2ace720-9439-4a96-b93b-763c1f9b40b5.png)
+![image](https://user-images.githubusercontent.com/84567467/193631681-1a60bb4b-416d-4347-8805-52997ec08671.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Theme switched to dark mode
+![image](https://user-images.githubusercontent.com/84567467/193631749-1247889e-bb88-440c-bed9-63a13ca72b83.png)
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+This page has a navbar which consists of a dropdown box which the user can change the topic and move to the respective page, and it also has a home page which will move to the home page
+![Screenshot (26)](https://user-images.githubusercontent.com/84567467/193632550-0d5fbb5c-0a5c-4f70-8cb5-3a65b0bd1b1c.png)
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+The next part of the page has a slider which also shows the Title, Description and link which takes to the API page.
+We can move the slider to view more..
+![image](https://user-images.githubusercontent.com/84567467/193632113-ccda5084-1b31-4fbf-bac3-ead4f05022f5.png)
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Next part of the page has other APIs which is displayed one below other
+![image](https://user-images.githubusercontent.com/84567467/193633156-79f95b9d-32fd-4ec8-9f88-acdef49c9d51.png)
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This page too contains Change Theme, When clicked looks like below
+![image](https://user-images.githubusercontent.com/84567467/193633298-7b12168b-dcff-4183-afc8-17f531beea9f.png)
+![image](https://user-images.githubusercontent.com/84567467/193633336-1f2c4f02-b0e5-4c01-83db-e0e031438e36.png)

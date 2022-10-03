@@ -37,7 +37,7 @@ import {
           </Stack>
 
           <Stack direction={'row'} align={'center'}>
-              <Link href="second">
+              <Link href="Second">
               <Button
                 size={'lg'}
                 variant='solid'
